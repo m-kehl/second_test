@@ -8,3 +8,4 @@ And this line the day later some minutes later, and some words.
 Hello there.
 Line added grom GitHub.
 Another line added from GitHub.
+And another one from RStudio.
