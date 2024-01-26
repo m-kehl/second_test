@@ -9,4 +9,6 @@ Hello there.
 Line added grom GitHub.
 Another line added from GitHub.
 And another one from RStudio.
+<<
 And a line from Rstudio.
+Line from GitHub at the same time.
